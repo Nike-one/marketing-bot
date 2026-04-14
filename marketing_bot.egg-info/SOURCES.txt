@@ -1,0 +1,11 @@
+README.md
+setup.py
+marketing_bot/__init__.py
+marketing_bot/config.py
+marketing_bot.egg-info/PKG-INFO
+marketing_bot.egg-info/SOURCES.txt
+marketing_bot.egg-info/dependency_links.txt
+marketing_bot.egg-info/top_level.txt
+tests/__init__.py
+tests/conftest.py
+tests/test_config.py
